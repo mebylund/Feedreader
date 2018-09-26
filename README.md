@@ -1,6 +1,6 @@
 # Feedreader Testing
 
-This project uses Jasmine (http://jasmine.github.io/) to test the application and functionallity of the webpage.
+This project uses Jasmine to test the application and functionallity of the webpage.
 
 
 ## Table of Contents
@@ -12,4 +12,6 @@ This project uses Jasmine (http://jasmine.github.io/) to test the application an
 
 Load this link into your browser
 
-## Additional Instructions
+## External Libraries Used
+
+* Jasmine (http://jasmine.github.io/)
