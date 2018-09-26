@@ -6,7 +6,7 @@ This project uses Jasmine to test the application and functionallity of the webp
 ## Table of Contents
 
 * [How to Load Application](#how_to_load_application)
-* [Additional Instructions](#additional_instructions)
+* [External Libraries Used](#external_libraries_used)
 
 ## How to Load Application
 
